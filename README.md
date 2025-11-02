@@ -56,7 +56,7 @@ This system demonstrates the use of:
 
 Clone the Repository
 
-git clone https://github.com/<your-username>/AbstractFactory-VehicleSystem-Java.git
+git clone https://github.com/dyneth02/AbstractFactory-VehicleSystem-Java.git
 cd AbstractFactory-VehicleSystem-Java
 
 
